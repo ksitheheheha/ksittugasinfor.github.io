@@ -1,0 +1,89 @@
+.jumbotron {
+    padding-top: 6rem;
+   background-color: #A6CDC6;
+   }
+
+
+    .navigation {
+    position: fixed;
+    height: 70px;
+    right: 0;
+    left: 0;
+    background-color: #2e5077;
+    box-sizing: border-box;
+    -webkit-box-shadow: 0px 17px 59px 11px #c4e3e6;
+    -moz-box-shadow: 0px 17px 59px 11px #d2e3df;
+    box-shadow: 0px 17px 59px 11px #ded0b4;
+    }
+    
+    .navigation h1 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 15px;
+    font-family: Arial;
+    color: #ffffff;
+    background-image: -webkit-linear-gradient(
+    0deg,
+    #fff 100%,
+    #466e85 0%,
+    #9f8383 0%
+    
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    text-emphasis-color: transparent;
+    -webkit-text-fill-color: transparent;
+    
+    }
+
+    ul {
+        position: relative;
+        height: 70px;
+        left: 810px;
+        }
+    li {
+        display: inline-block;
+        margin-left: 5px;
+        width: 90px;
+        height: 40px;
+        padding-top: 25px;
+        font-weight: bold;
+        list-style: none;
+        text-align: center;
+        text-transform: uppercase;
+        }
+    
+        a {
+            color: white;
+            font-size: 15px;
+            font-family: Arial, Helvetica, sans-serif;
+            text-decoration:
+            none;
+            transition: 0.5s;
+            }
+        a:hover {
+            background-color: #9ebde65b;
+            box-shadow: 0px 0px 400px 86px #f5f5f5;
+            -webkit-box-shadow: 0px 0px 400px 86px #daedf3;
+            -moz-box-shadow: 0px 0px 400px 86px #ffffff;
+            text-decoration: underline rgb(224, 222, 243);
+            
+            }
+
+
+#project{
+    background-color: #A6CDC6;
+}
+#location{
+    background-color: #A6CDC6;
+}
+#contact{
+    background-color: #A6CDC6;
+}
+#footer{
+    background-color: #14404d;
+}
+#about{
+    background-color: #A6CDC6;
+}
